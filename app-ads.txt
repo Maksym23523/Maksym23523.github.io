@@ -1,0 +1,3 @@
+# app-ads.txt для TrueLife - Life Simulator (MM_Game)
+# Сюда добавятся строки от AdMob и Unity Ads после регистрации в них, например:
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
